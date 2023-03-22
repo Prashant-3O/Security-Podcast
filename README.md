@@ -1,2 +1,0 @@
-# Security-Podcast
-Security Podcast
